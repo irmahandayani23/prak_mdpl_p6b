@@ -8,5 +8,6 @@
 </head>
 <body>
     <h3>Materi Git Remote</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quaerat accusantium at rem tempore aperiam consequuntur quo fugit reprehenderit, porro optio culpa, architecto id illum harum itaque maiores? Itaque, magni.</p>
 </body>
 </html>
